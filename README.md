@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @tajanamilkovic
-- 👀 I’m interested in front end development and IU/UX design
-- 🌱 I’m currently learning Python, HTML5 and CSS3
-- 💞️ I’m looking to collaborate on small web dev projects
-- 📫 How to reach me: LinkedIn
+Studentica prve godine Informatike na Tehničkom veleučilištu u Zagrebu. 
+Možete me naći na LinkedInu: https://www.linkedin.com/in/tajana-milkovic/
 
 <!---
 tajanamilkovic/tajanamilkovic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
